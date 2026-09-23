@@ -215,9 +215,8 @@ jobs:
           future_carbs_4h \
           override_sens \
           now_line \
-          2hlollipop \
+          1.5hlollipop \
           meal_days \
-          profiles \
           basal_lock \
           negative_insulin
 
